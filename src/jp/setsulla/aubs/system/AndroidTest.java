@@ -1,10 +1,10 @@
-package jp.setsulla.atve.aubs.system;
+package jp.setsulla.aubs.system;
 
 import com.android.uiautomator.core.UiObject;
 import com.android.uiautomator.core.UiObjectNotFoundException;
 import com.android.uiautomator.core.UiSelector;
 
-import jp.setsulla.atve.aubs.AubsBase;
+import jp.setsulla.aubs.AubsBase;
 
 /**
  * Created by 0000138083 on 2016/03/09.

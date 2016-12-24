@@ -1,4 +1,4 @@
-package jp.setsulla.atve.aubs;
+package jp.setsulla.aubs;
 
 import android.os.RemoteException;
 import android.graphics.Point;

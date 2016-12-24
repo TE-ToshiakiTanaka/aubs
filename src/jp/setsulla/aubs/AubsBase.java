@@ -1,4 +1,4 @@
-package jp.setsulla.atve.aubs;
+package jp.setsulla.aubs;
 
 /**
  * Created by 0000138083 on 2016/02/25.
